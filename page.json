@@ -1,0 +1,21 @@
+{
+  "name": "Wojciech 'xYundy' Zięciak",
+  "description": "Full stack developer",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/xYundy",
+      "icon": "github"
+    },
+    {
+      "title": "Buy me a coffee ($)",
+      "url": "https://ko-fi.com/xyundy",
+      "icon": "mug"
+    },
+    {
+      "title": "Buy me a coffee (PLN)",
+      "url": "https://buycoffee.to/xyundy",
+      "icon": "mug"
+    }
+  ]
+}
